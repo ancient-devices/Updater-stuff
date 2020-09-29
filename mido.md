@@ -32,17 +32,14 @@ Source Changelogs:
 -----------------
 
 Devie Changelogs:
-• Vanilla Build with OTA Support
-• Clean and Rebased Device Tree and removed much useless stuff
-• Update blobs CAF Tag: LA.UM.8.6.2.r1-08400-89xx.0
-• Update hals CAF Tag: LA.UM.8.6.2.r1-08400-89xx.0
-• Drop Pixel Powerhal
-• Updated to new XiaomiParts v3.0
-• IR Blaster is Fixed now
-• Patched goodix blobs for parcel class size in Android Q
-• Add HDR in HAL3
-• Added some VoLTE stuff for India
-• Increase amount of visible notification icons
-• Fix incall mic with headphones
+• Fixed VoLTE for jio user's
+• Revert blobs to CAF tag: LA.UM.8.6.2.r1-08100-89xx.0
+• Update media profiles config from Tissot V10.0.24.0.PDHMIXM
+• Update additional DRM blobs from lmi V12.0.3.0.QJKMIXM
+• Remove unused target headers override
+• Address some denails
 • Many optimizations and improvements
-• Shipped with Latest Kizuna kernel
+• Shipped with Latest Kizuna kernel 4.9.237
+
+Note:
+• Backuptool is present, so dirtyflash wont be a issue.

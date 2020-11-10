@@ -1,23 +1,19 @@
-AncientOS 4.0 Final | Primeval | Koshiki | Sept 20, 2020
+AncientOS v4.0.1-Final | PRIMEVAL | 09 November
 
 Source Changelogs:
-• October security patch
-• Updated some stuff for Messaging, Dailer and Contacts app
-• Updated custom doze
+• November security patch
+• Added app lock
+• Update some stuff
 Some more optimizations
 
 -----------------
 
-Devie Changelogs:
-• Updated some stuff from LA.UM.8.6.2.r1-08600-89xx.0
-• Fix path to SystemUI.apk for pinner service
-• Update bdroid_buildcfg values from caf
-• Move lights HAL to system-background
-• Drop unnecessary handled variable in setLight()
-• Update Gcam Go Mod: Greatness NS2
-• Add new camera2 hardware features
-• Updated Kernel Tag to 4.9.240
+Device Changelogs:
+• Don't pin camera app in memory
+• Add interface specification for lights hal
+• Update P blobs from Tissot V10.0.24.0
+• Updated Kernel to 4.9.241
 
-Note:
+Notes:
 • Kernel rename to Scarlett ( Just renamed nothing else )
-• Backuptool is present, so dirtyflash wont be a issue.
+• Dirty flash is fine.

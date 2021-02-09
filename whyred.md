@@ -1,70 +1,61 @@
-AncientOS 3.9 | Primeval | Koshiki | July 25, 2020
+AncientOS 5.1 | Iron | Feb 9, 2021
 
 Source CL :
-• July security patch (r40)
-• Removed selinux switch
-• Improve fod
-• Swipe up on keyguard to use FU
-• Fixed edit tile keep pressed while not expanded
-• Fixed double tap to check phone
-• Fixed SystemUI crash with custom volume panel
-• Change default scale animations
-• Improved gaming mode
-• Disable notification vibration
-• Improve edge lightning from ion OS
-• Update interval weather
-• Live data usage
-• Added option for selecting SBC HD codec by default
-• Added option for a2dp codec priority
-• Added fod pressed
-• Added Quick QS brightness slider
-• Added Color OS 7 FP animations
-• Added realme pressed
-• Added Ancient FOS
-• Added Pattern 4x4 - 6x6
-• Added toogle for gradient QS Background
-• Added QS Tile Styles (also add ancient tiles)
-• Added QS Clock Style
-• Added QS Analog Style
-• Added QS Themes
-• Added Settings Style
-• Added statusbar height for dual row
-• Added Settings dashboard icons
-• Added slim recents
-• Added Switch Styles
-• Added QS Label options (accent, gradient)
-• Added new QS tint
-• Added disable quick settings on LS
-• Added Quick settings pulldown
-• Added Smart Pulldown
-• Added LiveDisplay
-• Added sensor block package list
-• Added QS tint mode (random, disco)
-• Added toogle to hide lock icon on LS
-• Added Ancient Widget Clock
-• Added longpress power to toogle torch
-• Added allow VPN Tethering
-• Added Notifications ticker
-• More
-
-Device:
-- Switch EAS Kernel
-- Fixed Earphone issue and more audio tunes
-- Drop qualcomm audio effect
-- Add missing product radio deviceinfo blobs 
-- Build HFP and speaker protection 
-- Update all jasmine blobs to V11.0.5.0.QDIMIXM 
-- Build some external audio modules
-- Enforce RRO for all resource overlays
-- Update Displayservice & Camera provider
-- Force enable mobile network settings v2
-- Enable wfc for supported providers
-- Add missing iwlan vowifi prop 
-- Add missing IOP entry 
-- Adding qteeconnector service
-- Update auto brightness overlays
-- Update audio from stock
-- Update some blobs from stock
-- Enable ro.telephony.use_old_mnc_mcc_format
-
-Thanks to srfarias, im pick from his tree
+• Redesign SystemUI and Settings
+• Fixed battery estimate
+• Fixed sound picker
+• Enable zygote preforking
+• Added FOD recognizing animation
+• Added screen off FOD
+• Added FOD picker
+• Added FOD pressed color
+• Added tiles sync, volume panel, reboot, data switch, music
+• Added wiret/bt headset ringtone audio focus customizable
+• Added DU System themes
+• Added pulse equalizer navbar/lockscreen
+• Added QS tile style picker
+• Added qs tint with accent color
+• Added RGB Accenter
+• Added disco on qs
+• Added QS clock style
+• Added QS analog clock style
+• Added rounded corner style
+• Added statusbar height style
+• Added dual row statusbar mod
+• Added signature spoofing
+• Added show/hide edit icon
+• Added statusbar logo
+• Added radius gesture navbar
+• Added max lockscreen notification count
+• Added statusbar notification count
+• Added navbar style
+• Added settings style
+• Added switch style
+• Added AOKP system animation
+• Added ethan animation
+• Added toast animation
+• Added smart pixels
+• Added optional screenshot type
+• Added disable notification vibration
+• Added Data usage
+• Added screenshot and screenrecord on powermenu
+• Added old style data indicator
+• Added theme settings dashbicons icons
+• Added Faceunlock
+• Added swipeup on keyguard to use faceunlock
+• Added navbar layout inversion
+• Added simple icon pack in launcher
+• Added kill app button in launcher
+• Added more style statusbar icon
+• Added more fonts
+• Added more charging animation
+• Fixed volume rocker skip track on ambient
+• Screenoff volume skiptrack
+• Pulse on new music track (ambient music)
+• Switch GalleryGo
+• Allow set back swipe deadzone
+• Allow enable/disable powermenu
+• Custom doze brightness and pulse brightness
+• Improve gaming mode
+• Improve edge light
+• Improve source

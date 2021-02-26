@@ -1,4 +1,60 @@
-AncientOS 5.1 | Iron | Feb 9, 2021
+AncientOS 5.2 | Iron | Feb 26, 2021
 
-Source CL :
-- Penambahan video janda
+Source CL:
+
+- February Security
+- Redesign SystemUI and Settings
+- Added custom navbar layout
+- Added ambient music
+- Added turbo charging
+- Added tiles cpu info, fps, kill app, longshot, navigation bar
+- Added statusbar header image
+- Added disable/enable QS media player (default disable)
+- Added ios faceunlock animation
+- Added configure lockscreen media artwork blur level
+- Added data disable indicator
+- Added more qs clock
+- Added QS panel opacity
+- Added header image height configurable
+- Added text clock gradient (thanks @nabil_aba)
+- Added qs clock gradient style
+- Added tooltip and topad style
+- Added quick settings pull down with one finger
+- Added toggle to completely hide status bar on lockscreen
+- Added quick pulldown statusbar anywhere
+- Added fingerprint error vibration
+- Added sensor block packagelist
+- Added cutout force fullscreen
+- Added OTA App
+- Added ios toast notification
+- Added touch sensitive
+- Added custom carrier label
+- Added running service toogle
+- Added simple brightness style
+- Added simple QS bq style
+- Added OOS style notification clear all button (toggleable)
+- Added center notification headers
+- Added Expandable stock volume slider 
+- Fixed pulse visualizer crash when disable navbar
+- Fixed issue in security method
+- Fixed issue cannot allow permissions for app installed
+- Update PixelPropsUtils
+- Update Launcher
+- Improve ambient pulse
+- Improve notification header
+- Improve source
+
+=======================================
+
+Device CL
+
+- Unified build
+- Upstream kernel to 4.14.222
+- Compile with proton clang
+- Remove MiuiCamera
+- Back to use GcamGO
+- Re added Smart Charging
+- Update fp to redfin February 2021
+- Disabled wifi display for now
+- Added new refresh rate QS tile (60-90-120hz)
+- Limit screen recorder to 90 fps

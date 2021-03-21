@@ -1,46 +1,53 @@
-AncientOS 4.0 Final | Primeval | Koshiki | Sept 21, 2020
+AncientOS 5.2 | Iron | Feb 26, 2021
 
-Source Changelogs:
-• Sept security patch
-• Improve Doze
-• Improve UI
-• Improve qstile and icon primary
-• Add VOOC charging support
-• Add screen off FOD
-• Add Realme recog FP animation
-• Add Realme green FOD pressed
-• Add ambient display battery toggle
-• Add Miui volume dialog
-• Add lockscreen clock animation
-• Add navbar custom
-• Add background merge for qs and notif
-• Add screen stabilization
-• Add touch respone optimizations
-• Add Clipboard toast like ios
-• Add support lineage power HAL
-• Add square switch
-• Add more systembar
-• Add notification count
-• Add land dimensions
-• Add more AncientStyle
-• Add settings animation
-• Update QuickStep
-• Update Dialer
-• Update Widget
-• More
+Source CL:
 
+- February Security
+- Redesign SystemUI and Settings
+- Added custom navbar layout
+- Added ambient music
+- Added turbo charging
+- Added tiles cpu info, fps, kill app, longshot, navigation bar
+- Added statusbar header image
+- Added disable/enable QS media player (default disable)
+- Added ios faceunlock animation
+- Added configure lockscreen media artwork blur level
+- Added data disable indicator
+- Added more qs clock
+- Added QS panel opacity
+- Added header image height configurable
+- Added text clock gradient (thanks @nabil_aba)
+- Added qs clock gradient style
+- Added tooltip and topad style
+- Added quick settings pull down with one finger
+- Added toggle to completely hide status bar on lockscreen
+- Added quick pulldown statusbar anywhere
+- Added fingerprint error vibration
+- Added sensor block packagelist
+- Added cutout force fullscreen
+- Added OTA App
+- Added ios toast notification
+- Added touch sensitive
+- Added custom carrier label
+- Added running service toogle
+- Added simple brightness style
+- Added simple QS bq style
+- Added OOS style notification clear all button (toggleable)
+- Added center notification headers
+- Added Expandable stock volume slider 
+- Fixed pulse visualizer crash when disable navbar
+- Fixed issue in security method
+- Fixed issue cannot allow permissions for app installed
+- Update PixelPropsUtils
+- Update Launcher
+- Improve ambient pulse
+- Improve notification header
+- Improve source
 
------------------
+=======================================
 
-Devie Changelogs:
-• Updated blobs from miui 20.9.16
-• Reduced cpu usage during audio playback
-• Fixed Speaker Low Volume Issues .
-• Fixed minor issues with fp
-• Merged upstream linux 4.14.198 
-• Reduced scheduler latency
-• Fixed power button issue for some users
-• Fixed Gcam HDR+ accelerated processing. 
-• Fixed potential random reboots while using 4g
-• Blocked qup_uart wakelock when BT connected
-• Fixed EIS
+Device CL
+
+- Update Blobs From Miui 21.3.17 
+- Drop part and change to XiaomiPart
+- Boost audio output

@@ -4,4 +4,4 @@ Source CL: • April Security patch • Fixed bubble • Fixed backuptools for d
 
 Device CL: 
 • OTA will over-ride TWRP and Magisk!
-• initial release
+• added Automatic High Brightness mode • FPS Overlay • Clear Speaker • Audio Amplifier • Per-App Thermal Profiles

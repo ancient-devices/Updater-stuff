@@ -53,3 +53,7 @@ Device Changelog:
 * new motoactions implemented
 * Fixed Flickers
 * More improvements & fixes
+* introduce OTA Updates
+* Address denials to AppLock
+* Add Some audio props
+* Update Fingerprint

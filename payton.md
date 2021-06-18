@@ -1,61 +1,49 @@
 Source Changelog:
 
-• April Security patch
-• Fixed bubble
-• Fixed backuptools for dinamic
-• Fixed headsup tiles
-• New Bootanimation
-• Improve Volume dialog (fixed issue when landscape)
-• Improve FOD
-• Improve CustomDoze
-• Improve Brightness icon view
-• Improve Powerusagesummary
-• Improve Notification layout header
-• Improve QS Panel Layout
-• Redesign Media player view
-• Convert Global actions with blur (powermenu)
-• Added AIDL lineage powerhal
-• Added Dirac and misound FX support
-• Added Automated DC dimming
-• Added Fluid and IDE LS clock
-• Added Applock
-• Added Multisim ringtone
-• Added Vibratorservice from oneplus
-• Added Aggressive batery
-• Added Schedulling AOD
-• Added Longpress power for torch
-• Added Smartcutoff
-• Added QS blur from a10 ( just for alternative)
-• Added Landscape battery style
-• Added Extended audio panel
-• Added Statusbar dual bar style
-• Added Simple padding overlay
-• Added brightness percentage in panel
-• Added QS rainbow
-• Added Footer custom carrier
-• Added Collapsing Toolbar HomePage and Some SubSettingPage with toggle on off, background and style (default was disable)
-• Added asus longshot
-• Launcher3: Added app drawer opacity
-• Launcher3: Added Icon Pack Support from Shade Launcher
-• Launcher3: Added AppInfo Bottom Sheet from Shade Launcher
-• Launcher3: Hide DragHandle arrow
-• Launcher3: Added support OOS icon pack
-• New bootanimation thanks to @zazaaw
+• June Security r37
+• Fixed hex accent picker
+• Fixed VPN hotspot
+• Fixed QS Panel opacy when landscape
+• Fixed VPN and qs media when landscape
+• Fixed some clock format AM/PM
+• Fixed scrooling in force fullscreen
+• Fixed other lights when backlight uses SurfaceController API
+• Move DisplayCutout to display settings
+• Added wifi timeout
+• Added bluetooth timeout
+• Added refresh rate
+• Added OOS 11 Volte icon
+• Added back screenshot delete toast
+• Added QS tiles size
+• Added QS tiles columns
+• Added lockscreen background blur
+• Added QS Custom background
+• Added statusbar notification ticker
+• Added settings style
+• Added A12 QS Tile style background
+• Added Data icon style
+• Added show and edit ambient icon on LS
+• Added notification background opacy
+• Added Custom Statusbar Clock Background
+• Added colored statusbar icon and notification 
+• Added option to scale default wallpaper to screen size
+• Added hide notch
+• Improve clipboard access toast
+• Improve Settings
+• Improve Doze on charge
+• Improve some lockscreen clock
+• Improve landscap battery
+• Improve blur radius from kdrag0n
+• Improve aosp screenrecord
+• Improve bootanimation
+• Re-enable side clock in statusbar dual
 • Misc
 
 Device Changelog:
 
-* April security patch
-* Added Navbar By default
-* Add some props for better ram management
-* Added Selinux Status on Settings
-* Fixed Fingerprint Gestures
-* new motoactions implemented
-* Fixed Flickers
-* More improvements & fixes
-* introduce OTA Updates
-* Address denials to AppLock
-* Add Some audio props
-* Update Fingerprint
+• Fix Moto cam and moto wallpapers
+• Revert blu_schdutil
+• Set Cybertron 2.2 default kernel
+• Enable Zram
 
 

@@ -1,15 +1,15 @@
 {
   "error": false,
-  "id": "4.0010100",
-  "filename": "ancient_vanilla_4.0_meme.zip",
-  "datetime": 2509200000,
-  "version": "v3.9",
-  "size": "872529",
-  "url": "https://sourceforge.net/projects/ancientrom/files/raphael/ancient_vanilla_4.0_meme.zip/download",
-  "filehash": "e43dd773ae74fe1de3233f3db6c200a2",
+  "id": "7a21a416076b80ee110e53341a9f1514ee575922c9aa49969f33dbc7f9a21a7b",
+  "filename": "AncientOS-R-Society-v5.4-raphael-Iron-20210628-1900-GApps.zip",
+  "datetime": 1624906721,
+  "version": "v5.4",
+  "size": "1385862972",
+  "url": "https://sourceforge.net/projects/ancientrom/files/raphael/AncientOS-R-Society-v5.4-raphael-Iron-20210628-1900-GApps.zip/download",
+  "filehash": "41a5a179fecfcf81ba6c5a6857c36975",
   "website_url": "https://sourceforge.net/projects/ancientrom/files/",
   "news_url": "https://t.me/ancientrom",
-  "maintainer": "Irongfly",
-  "maintainer_url": "https://github.com/SukeeratSG",
-  "forum_url": "https://t.me/Irongfly"
+  "maintainer": "Wadie Habib",
+  "maintainer_url": "https://github.com/wadiehabib",
+  "forum_url": "https://t.me/wadiehabib"
 }
